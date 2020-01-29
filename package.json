@@ -1,0 +1,15 @@
+{
+  "name": "ubaccesibilitycheck",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "axe-core": "^3.4.1",
+    "cypress": "^3.8.3",
+    "cypress-axe": "^0.5.3"
+  }
+}
